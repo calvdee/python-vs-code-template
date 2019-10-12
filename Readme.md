@@ -6,7 +6,7 @@ This is a minimal template for a typical Python application developed in Visual 
 
 * A CLI app
 * Python module code
-* Tests
+* Tests (using the [pytest framework](https://docs.pytest.org/en/latest/))
 * Makefile
 
 As well as a VS Code settings file to integrate a virtual environment and testing framework.
