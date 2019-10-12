@@ -1,0 +1,4 @@
+# Use pytest version that doesn't break with VS Code
+pytest==5.0.0
+pylint
+click
